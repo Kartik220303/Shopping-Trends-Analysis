@@ -1,4 +1,4 @@
-# Shopping Trends Data Analysis using SQL
+# Shopping Trends Analysis using SQL
 SQL-based retail sales analysis project identifying shopping trends, customer behavior, and product performance using aggregate, window, and subqueries on a 3000+ transaction dataset.
 
 **Company Focus:** Retail Business Data Insights  
